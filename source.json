@@ -1,20 +1,17 @@
 {
-    "name":"JustSleightly's VPM Packages",
-    "id":"dev.sleightly.vpm-listing",
+    "name":"Kebolder's VPM Packages",
+    "id":"dev.Kebolder.vpm-listing",
     "url":"https://justsleightly.github.io/VPM-Package-Listing-Template/index.json",
     "author":{
-        "email":"just@sleightly.dev",
-        "name":"JustSleightly",
-        "url":"https://just.sleightly.dev"
+        "name":"Kebolder (JaX)",
     },
     "description":"For use with the VRChat Creator Companion",
     "infoLink":{
-        "url":"https://discord.sleightly.dev",
+        "url":"https://discord.gg/gAvSUqdnnB",
         "text":"Discord"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
     ],
     "packages":[]
 }
