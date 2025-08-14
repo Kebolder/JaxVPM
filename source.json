@@ -12,6 +12,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
+        "Kebolder/StateSyncer",
     ],
     "packages":[]
 }
